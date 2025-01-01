@@ -16,6 +16,12 @@
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=for-the-badge)
 ![Mongoose](https://img.shields.io/badge/-Mongoose-AA2929?logo=mongoose&logoColor=white&style=for-the-badge)
 
+## 🗄️ Databases
+
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
+
+
 
 <!--
 **Saumya-tiwari-24/Saumya-tiwari-24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
