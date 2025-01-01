@@ -1,5 +1,4 @@
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Saumya-tiwari-24)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Saumya-tiwari-24&theme=dark)](https://git.io/streak-stats)
 <!--
 **Saumya-tiwari-24/Saumya-tiwari-24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
