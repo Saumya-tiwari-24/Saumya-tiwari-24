@@ -1,4 +1,6 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Saumya-tiwari-24&theme=dark)](https://git.io/streak-stats)
+
+## 🚀 Technologies I Know
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
