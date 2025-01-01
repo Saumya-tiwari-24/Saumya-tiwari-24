@@ -21,6 +21,12 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
 
+## 🤖 AI & Machine Learning
+
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-102230?logo=tensorflow&logoColor=FF6F00&style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-0769AD?logo=pytorch&logoColor=EE4C2C&style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white&style=for-the-badge)
+![LLMs](https://img.shields.io/badge/-LLMs-FFB13B?logo=openai&logoColor=white&style=for-the-badge)
 
 
 <!--
