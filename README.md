@@ -9,6 +9,14 @@
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge)
 
 
+## 🛠️ Frameworks & Libraries
+
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=for-the-badge)
+![Mongoose](https://img.shields.io/badge/-Mongoose-AA2929?logo=mongoose&logoColor=white&style=for-the-badge)
+
+
 <!--
 **Saumya-tiwari-24/Saumya-tiwari-24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
